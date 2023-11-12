@@ -7,19 +7,19 @@ export const filterableData = [
   },
   {
     name: "TEDxYouth PTNK",
-    src: "public/assets/images/TEDx/4.jpeg",
+    src: "https://i.postimg.cc/k54cshcz/4.jpg",
     title: "BMW",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
     name: "TEDxYouth PTNK",
-    src: "public/assets/images/TEDx/5.jpeg",
+    src: "https://i.postimg.cc/mr5S5NpD/5.jpg",
     title: "Modeller",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
   {
     name: "TEDxYouth PTNK",
-    src: "public/assets/images/TEDx/6.jpeg",
+    src: "https://i.postimg.cc/QtKqG9vq/6.jpg",
     title: "Sea Life",
     text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
   },
