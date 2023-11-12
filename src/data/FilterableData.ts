@@ -1,56 +1,255 @@
 export const filterableData = [
-    {
-        name: "nature",
-        src: "https://images.pexels.com/photos/933054/pexels-photo-933054.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Mountains",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "cars",
-        src: "https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "BMW",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "people",
-        src: "https://images.pexels.com/photos/428338/pexels-photo-428338.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Modeller",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "nature",
-        src: "https://images.pexels.com/photos/9638689/pexels-photo-9638689.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Sea Life",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "cars",
-        src: "https://images.pexels.com/photos/3972755/pexels-photo-3972755.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Lamborghini",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "people",
-        src: "https://images.pexels.com/photos/432059/pexels-photo-432059.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Artist",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "nature",
-        src: "https://images.pexels.com/photos/15286/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
-        title: "Forest",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "cars",
-        src: "https://images.pexels.com/photos/136872/pexels-photo-136872.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Benz",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        name: "people",
-        src: "https://images.pexels.com/photos/733767/pexels-photo-733767.jpeg?auto=compress&cs=tinysrgb&w=800",
-        title: "Saxophonist",
-        text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    }
-]
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/3.jpeg",
+    title: "Mountains",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/4.jpeg",
+    title: "BMW",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/5.jpeg",
+    title: "Modeller",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/6.jpeg",
+    title: "Sea Life",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/7.jpeg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/8.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/9.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/10.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/11.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/12.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/13.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/14.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/15.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/16.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/17.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/18.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/20.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/21.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/22.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/23.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "TEDxYouth PTNK",
+    src: "src/assets/images/TEDx/24.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/1.jpg",
+    title: "First Bonding",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/2.jpg",
+    title: "First Bonding",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/3.jpg",
+    title: "Mountains",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/4.jpg",
+    title: "BMW",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/5.jpg",
+    title: "Modeller",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/6.jpg",
+    title: "Sea Life",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/7.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/8.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/9.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/10.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/11.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/12.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/13.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/14.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/15.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/16.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/17.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/18.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/19.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/20.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+  {
+    name: "The Gifted Battlefield",
+    src: "src/assets/images/TGB/21.jpg",
+    title: "Lamborghini",
+    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  },
+];
