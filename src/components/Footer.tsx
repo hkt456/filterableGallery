@@ -9,10 +9,10 @@ import {
 } from "mdb-react-ui-kit";
 
 import "@fortawesome/fontawesome-free/css/all.min.css";
-// import "bootstrap-css-only/css/bootstrap.min.css";
-// import "mdbreact/dist/css/mdb.css";
+//import "bootstrap-css-only/css/bootstrap.min.css";
+//import "mdbreact/dist/css/mdb.css";
 
-export default function App() {
+const Footer = () => {
   return (
     <MDBFooter className="bg-dark text-center text-white">
       <MDBContainer className="p-4 pb-0">
@@ -85,4 +85,6 @@ export default function App() {
       </div>
     </MDBFooter>
   );
-}
+};
+
+export default Footer;
