@@ -8,6 +8,7 @@ const ImageFilter = () => {
   const [activeFilter, setActiveFilter] = useState<string>("all");
 
   const buttonCaptions = [
+    "all",
     "TEDxYouth PTNK",
     "The Gifted Battlefield",
     "Miscellaneous",
