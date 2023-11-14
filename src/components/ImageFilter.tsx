@@ -3,7 +3,7 @@ import Button from "./Button";
 import { filterableData } from "../data/FilterableData";
 import { Image } from "./Image";
 import { Text } from "./Text";
-
+import Footer from "./Footer";
 const ImageFilter = () => {
   const [activeFilter, setActiveFilter] = useState<string>("all");
 
