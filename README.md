@@ -1,8 +1,8 @@
-# Filterable Gallery with React.js, Vite, and Tailwind CSS
+# Filterable Gallery Website with React.js, Vite, and Tailwind CSS
 
 This is a simple filterable gallery application built using React.js with TypeScript, Vite for development, and Tailwind CSS for styling. The application allows users to filter and view images based on predefined categories.
 
-<img src="https://github.com/Signor1/filterableGallery/blob/f0300c1a4d69a6f3ee5f5e9194e53ffd011efb8c/demoview.png" width="100%"/>
+<img src="./images/demo.jpg" width="100%"/>
 
 ## Features
 
@@ -10,7 +10,7 @@ This is a simple filterable gallery application built using React.js with TypeSc
 - Responsive design.
 - Clean and minimalistic user interface.
 - Fast development with Vite and TypeScript.
-- Stylish UI components with Tailwind CSS.
+- Stylish UI components with Tailwind CSS
 
 ## Getting Started
 
@@ -25,7 +25,8 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Signor1/filterableGallery.git
+   git clone https://github.com/hkt456/filterableGallery.git
+
    ```
 
 2. Navigate to the project directory:
@@ -87,9 +88,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Pexels](https://www.pexels.com/) for providing sample images.
 
 ## Contact
 
 If you have any questions or feedback, feel free to contact me.
-
